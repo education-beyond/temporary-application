@@ -1,0 +1,2 @@
+# temporary-application
+お子さんがチューターを選んで仮申込する際のGAS用プロジェクトです。
